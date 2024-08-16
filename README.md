@@ -1,4 +1,4 @@
-The purpose of the project is to create the high-quality translation database possible between Finnish and English.
+The purpose of the project is to create the high-quality translation database between Finnish and English.
 The primary idea is to develop a linguistic database that can be used for training artificial intelligence, but all other kinds of use are also allowed and encouraged.
 The project requires a significant amount of time, and creating and reviewing the first version took several weeks.
 
