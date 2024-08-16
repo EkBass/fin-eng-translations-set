@@ -4,6 +4,9 @@ The project requires a significant amount of time, and creating and reviewing th
 
 If you like to help, please let me know.
 
+- Hugginface: EkBass/fin-eng-dataset
+- Github: https://github.com/EkBass/fin-eng-translations-set/
+
 **Current numbers:**
 - 20k finnish lines, sentences, paragraphs etc. translated to english.
 - 36330 unique finnish words.
