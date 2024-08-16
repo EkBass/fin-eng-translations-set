@@ -19,7 +19,7 @@ If you like to help, please let me know.
 - A considerable amount of IT vocabulary. https://github.com/TimoSalomaki/IT-sanasto/tree/master
 - Public Domain book "Avoin Elämä". https://avoinelama.fi/
 - Sexual vocabulary. https://www.hyvakysymys.fi/artikkeli/seksuaalisuuden-sanakirja/
- -Modern finnish word list. https://www.kotus.fi/aineistot/sana-aineistot/nykysuomen_sanalista
+- Modern finnish word list. https://www.kotus.fi/aineistot/sana-aineistot/nykysuomen_sanalista
 - Wikipedia articles.
 - Lots of finnish laws.
 - Laws mostly translated with translator, i dont know right words for them.
