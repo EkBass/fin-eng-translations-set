@@ -5,9 +5,10 @@ The project requires a significant amount of time, and creating and reviewing th
 If you like to help, please let me know.
 
 **Currernt numbers**
-20k finnish lines, sentences, paragraphs etc. translated to english.
-36330 unique finnish words. Around 35k different words due there is few names in sentences that are not "words" as we see them.
-3 week of translating, figuring out proper sentences and copy/pasting from several places.
+- 20k finnish lines, sentences, paragraphs etc. translated to english.
+- 36330 unique finnish words.
+- Around 35k different words due there is few names in sentences that are not "words" as we see them.
+- 3 weeks of translating, figuring out proper sentences and copy/pasting from several places.
 
 
 Sources:
