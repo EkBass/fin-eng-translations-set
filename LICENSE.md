@@ -11,7 +11,7 @@ You are free to
 - sell
 
 this dataset as long as you
-- give proper credit to original author by __sharing the link to this reposiroty__ and by __mentioning my name__
+- give proper credit to original author by __sharing the link to this repository__ and by __mentioning my name__
 
 **Long**
 
