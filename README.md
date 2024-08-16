@@ -4,14 +4,14 @@ The project requires a significant amount of time, and creating and reviewing th
 
 If you like to help, please let me know.
 
-**Currernt numbers**
+**Current numbers:**
 - 20k finnish lines, sentences, paragraphs etc. translated to english.
 - 36330 unique finnish words.
 - Around 35k different words due there is few names in sentences that are not "words" as we see them.
 - 3 weeks of translating, figuring out proper sentences and copy/pasting from several places.
 
 
-Sources:
+**Sources:**
 - Around 9k sentences and paragraphs are done by me and translated by software. All translations manually checked by me.
 - A considerable amount of IT vocabulary. https://github.com/TimoSalomaki/IT-sanasto/tree/master
 - Public Domain book "Avoin Elämä". https://avoinelama.fi/
